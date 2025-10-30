@@ -1513,3 +1513,262 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.10.30-11.59.29:347][528]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.10.30-11.59.29:347][528]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.10.30-11.59.29:347][528]AssetCheck: /Game/Levels/MainMenu/Widgets/W_Menu Validating asset
+[2025.10.30-12.00.07:336][417]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2025.10.30-12.01.25:534][742]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.10.30-12.01.25:541][742]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.30-12.01.25:545][742]LogOnline: OSS: Created online subsystem instance for: NULL
+[2025.10.30-12.01.25:545][742]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2025.10.30-12.01.25:545][742]LogPlayLevel: Creating play world package: /Game/Levels/MainMenu/UEDPIE_0_Lvl_MainMenu
+[2025.10.30-12.01.25:545][742]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001080s)
+[2025.10.30-12.01.25:545][742]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainMenu/Lvl_MainMenu.Lvl_MainMenu to /Game/Levels/MainMenu/UEDPIE_0_Lvl_MainMenu.Lvl_MainMenu (0.001128s)
+[2025.10.30-12.01.25:579][742]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2025.10.30-12.01.25:581][742]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_MainMenu
+[2025.10.30-12.01.25:583][742]LogPlayLevel: PIE: World Init took: (0.001466s)
+[2025.10.30-12.01.25:583][742]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2025.10.30-12.01.25:583][742]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.30-12.01.25:583][742]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.30-12.01.25:583][742]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.30-12.01.25:583][742]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.30-12.01.25:583][742]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.30-12.01.25:583][742]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.30-12.01.25:583][742]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.30-12.01.25:583][742]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.30-12.01.25:583][742]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.30-12.01.25:583][742]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.30-12.01.25:583][742]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.30-12.01.25:586][742]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.30-12.01.25:611][742]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2025.10.30-12.01.25:611][742]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.30-12.01.25:611][742]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.30-12.01.25:611][742]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.30-12.01.25:611][742]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2025.10.30-12.01.25:611][742]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2025.10.30-12.01.25:613][742]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2025.10.30-12.01.25:613][742]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2025.10.30-12.01.25:613][742]LogInit: FAudioDevice initialized with ID 2.
+[2025.10.30-12.01.25:613][742]LogAudio: Display: Audio Device (ID: 2) registered with world 'Lvl_MainMenu'.
+[2025.10.30-12.01.25:613][742]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2025.10.30-12.01.25:622][742]LogStreaming: Display: FlushAsyncLoading(588): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.30-12.01.25:622][742]LogStreaming: Warning: LoadPackage: SkipPackage: /Game/FirstPerson/Blueprints/BP_FirstPersonGameMode (0xE7AC7A3606E1925D) - The package to load does not exist on disk or in the loader
+[2025.10.30-12.01.25:622][742]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/FirstPerson/Blueprints/BP_FirstPersonGameMode.BP_FirstPersonGameMode_C'
+[2025.10.30-12.01.25:622][742]LogLoad: Game class is 'GameModeBase'
+[2025.10.30-12.01.25:623][742]LogWorld: Bringing World /Game/Levels/MainMenu/UEDPIE_0_Lvl_MainMenu.Lvl_MainMenu up for play (max tick rate 0) at 2025.10.30-12.01.25
+[2025.10.30-12.01.25:623][742]LogWorld: Bringing up level for play took: 0.000680
+[2025.10.30-12.01.25:625][742]LogOnline: OSS: Created online subsystem instance for: :Context_5
+[2025.10.30-12.01.25:632][742]PIE: Server logged in
+[2025.10.30-12.01.25:634][742]PIE: Play in editor total start time 0.094 seconds.
+[2025.10.30-12.01.36:170][986]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.30-12.01.36:170][986]LogWorld: BeginTearingDown for /Game/Levels/MainMenu/UEDPIE_0_Lvl_MainMenu
+[2025.10.30-12.01.36:170][986]LogWorld: UWorld::CleanupWorld for Lvl_MainMenu, bSessionEnded=true, bCleanupResources=true
+[2025.10.30-12.01.36:170][986]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.30-12.01.36:171][986]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.30-12.01.36:174][986]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.30-12.01.36:194][986]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.10.30-12.01.36:194][986]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2025.10.30-12.01.36:194][986]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2, StreamState=4
+[2025.10.30-12.01.36:195][986]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2, StreamState=2
+[2025.10.30-12.01.36:200][986]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.30-12.01.36:201][986]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2025.10.30-12.01.36:274][989]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2025.10.30-12.02.48:288][827]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2025.10.30-12.02.48:860][887]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.30-12.02.48:920][887]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Levels/MainMenu/Widgets/W_Menu] ([2] browsable assets)...
+[2025.10.30-12.02.48:923][887]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Levels/MainMenu/Widgets/W_Menu.W_Menu]
+[2025.10.30-12.02.48:923][887]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/MainMenu/Widgets/W_Menu]
+[2025.10.30-12.02.48:947][887]LogSavePackage: Moving output files for package: /Game/Levels/MainMenu/Widgets/W_Menu
+[2025.10.30-12.02.48:949][887]LogSavePackage: Moving '../../../../../../Users/dtnvca3/Documents/Vault/vault_of_genesis/VOG 5.6/Saved/W_MenuF02AC4004500C815224CFAB014F7F125.tmp' to '../../../../../../Users/dtnvca3/Documents/Vault/vault_of_genesis/VOG 5.6/Content/Levels/MainMenu/Widgets/W_Menu.uasset'
+[2025.10.30-12.02.48:958][887]LogFileHelpers: InternalPromptForCheckoutAndSave took 96.652 ms (total: 415.180 ms)
+[2025.10.30-12.02.48:987][887]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.30-12.02.48:987][887]LogContentValidation: Enabled validators:
+[2025.10.30-12.02.48:987][887]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.30-12.02.48:987][887]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.30-12.02.48:987][887]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.30-12.02.48:987][887]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.30-12.02.48:987][887]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.30-12.02.48:987][887]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.30-12.02.48:989][887]AssetCheck: /Game/Levels/MainMenu/Widgets/W_Menu Validating asset
+[2025.10.30-12.02.58:002][914]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2025.10.30-12.02.58:134][914]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2025.10.30-12.02.58:521][938]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.30-12.02.58:571][938]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Levels/MainMenu/Widgets/W_Menu] ([2] browsable assets)...
+[2025.10.30-12.02.58:572][938]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Levels/MainMenu/Widgets/W_Menu.W_Menu]
+[2025.10.30-12.02.58:572][938]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/MainMenu/Widgets/W_Menu]
+[2025.10.30-12.02.58:597][938]LogSavePackage: Moving output files for package: /Game/Levels/MainMenu/Widgets/W_Menu
+[2025.10.30-12.02.58:598][938]LogSavePackage: Moving '../../../../../../Users/dtnvca3/Documents/Vault/vault_of_genesis/VOG 5.6/Saved/W_MenuCAEE3BB34B5119C054D0DE864C35FA72.tmp' to '../../../../../../Users/dtnvca3/Documents/Vault/vault_of_genesis/VOG 5.6/Content/Levels/MainMenu/Widgets/W_Menu.uasset'
+[2025.10.30-12.02.58:605][938]LogFileHelpers: InternalPromptForCheckoutAndSave took 84.983 ms (total: 500.163 ms)
+[2025.10.30-12.02.58:638][938]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.30-12.02.58:638][938]LogContentValidation: Enabled validators:
+[2025.10.30-12.02.58:638][938]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.30-12.02.58:638][938]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.30-12.02.58:638][938]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.30-12.02.58:638][938]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.30-12.02.58:638][938]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.30-12.02.58:638][938]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.30-12.02.58:638][938]AssetCheck: /Game/Levels/MainMenu/Widgets/W_Menu Validating asset
+[2025.10.30-12.03.08:479][ 16]LogContentBrowser: Deferred new asset file creation: NewWidgetPreview
+[2025.10.30-12.03.08:481][ 16]LogContentBrowser: Creating deferred item: NewWidgetPreview
+[2025.10.30-12.03.08:501][ 17]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetPreview).
+[2025.10.30-12.03.16:445][958]LogContentBrowser: Attempting asset rename: NewWidgetPreview -> W_Menu_Settings
+[2025.10.30-12.03.16:448][958]LogContentBrowser: End creating deferred item NewWidgetPreview
+[2025.10.30-12.03.21:033][490]LogAssetEditorSubsystem: Opening Asset editor for WidgetPreview /Game/Levels/MainMenu/Widgets/W_Menu_Settings.W_Menu_Settings
+[2025.10.30-12.03.21:035][490]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_25
+[2025.10.30-12.03.21:042][490]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_26
+[2025.10.30-12.03.21:046][490]LogStreaming: Display: FlushAsyncLoading(590): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.30-12.03.21:066][490]LogStaticMesh: Display: Building static mesh Sphere_inversenormals (Required Memory Estimate: 1.522745 MB)...
+[2025.10.30-12.03.21:072][490]LogStaticMesh: Built static mesh [0.02s] /Engine/EditorMeshes/AssetViewer/Sphere_inversenormals.Sphere_inversenormals
+[2025.10.30-12.03.21:073][490]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Engine/EditorMeshes/AssetViewer/Sphere_inversenormals) ...
+[2025.10.30-12.03.21:082][490]LogStaticMesh: Display: Building static mesh Floor_Mesh (Required Memory Estimate: 0.022237 MB)...
+[2025.10.30-12.03.21:082][490]LogStaticMesh: Built static mesh [0.00s] /Engine/EditorMeshes/AssetViewer/Floor_Mesh.Floor_Mesh
+[2025.10.30-12.03.27:304][153]LogSlate: Window 'Widget Preview: W_Menu_Settings' being destroyed
+[2025.10.30-12.03.27:309][153]LogSlate: Window 'Widget Preview: W_Menu_Settings' being destroyed
+[2025.10.30-12.03.27:318][153]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2025.10.30-12.03.27:318][153]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.30-12.03.27:324][153]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.10.30-12.03.27:324][153]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.30-12.03.27:346][153]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2025.10.30-12.03.27:346][153]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.30-12.03.27:426][153]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2025.10.30-12.03.30:138][457]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2025.10.30-12.03.30:256][457]LogSlate: Last resort fallback font was requested. Font: '<unknown>', Character: '<unknown>'
+[2025.10.30-12.03.30:268][457]LogSlate: Took 0.010672 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2025.10.30-12.03.31:181][457]LogSlate: Window 'Delete Assets' being destroyed
+[2025.10.30-12.03.31:219][457]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2025.10.30-12.03.31:242][457]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2025.10.30-12.03.31:262][457]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2025.10.30-12.03.35:437][771]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2025.10.30-12.03.35:461][771]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2025.10.30-12.03.35:466][771]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2025.10.30-12.03.35:482][772]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2025.10.30-12.03.43:931][769]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> W_Menu_Settings
+[2025.10.30-12.03.43:937][769]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2025.10.30-12.03.44:663][827]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Levels/MainMenu/Widgets/W_Menu_Settings.W_Menu_Settings
+[2025.10.30-12.03.44:663][827]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_27
+[2025.10.30-12.03.44:667][827]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_28
+[2025.10.30-12.03.46:520][986]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.30-12.03.46:562][986]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Levels/MainMenu/Widgets/W_Menu_Settings] ([2] browsable assets)...
+[2025.10.30-12.03.46:562][986]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Levels/MainMenu/Widgets/W_Menu_Settings.W_Menu_Settings]
+[2025.10.30-12.03.46:562][986]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/MainMenu/Widgets/W_Menu_Settings]
+[2025.10.30-12.03.46:574][986]LogSavePackage: Moving output files for package: /Game/Levels/MainMenu/Widgets/W_Menu_Settings
+[2025.10.30-12.03.46:574][986]LogSavePackage: Moving '../../../../../../Users/dtnvca3/Documents/Vault/vault_of_genesis/VOG 5.6/Saved/W_Menu_SettingsA5AAEBF74BB8C7792ADCAE898EFD2A6B.tmp' to '../../../../../../Users/dtnvca3/Documents/Vault/vault_of_genesis/VOG 5.6/Content/Levels/MainMenu/Widgets/W_Menu_Settings.uasset'
+[2025.10.30-12.03.46:583][986]LogFileHelpers: InternalPromptForCheckoutAndSave took 64.135 ms (total: 564.299 ms)
+[2025.10.30-12.03.46:642][986]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.30-12.03.46:642][986]LogContentValidation: Enabled validators:
+[2025.10.30-12.03.46:642][986]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.30-12.03.46:644][986]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.30-12.03.46:644][986]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.30-12.03.46:644][986]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.30-12.03.46:644][986]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.30-12.03.46:644][986]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.30-12.03.46:644][986]AssetCheck: /Game/Levels/MainMenu/Widgets/W_Menu_Settings Validating asset
+[2025.10.30-12.03.46:657][986]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/dtnvca3/Documents/Vault/vault_of_genesis/VOG 5.6/Saved/SourceControl/UncontrolledChangelists.json
+[2025.10.30-12.04.29:433][892]LogShaderCompilers: Display: ================================================
+[2025.10.30-12.04.29:433][892]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.10.30-12.04.29:433][892]LogShaderCompilers: Display: Total job queries 2,470, among them cache hits 557 (22.55%), DDC hits 1,367 (55.34%), Duplicates 172 (6.96%)
+[2025.10.30-12.04.29:433][892]LogShaderCompilers: Display: Tracking 1,741 distinct input hashes that result in 1,090 distinct outputs (62.61%)
+[2025.10.30-12.04.29:433][892]LogShaderCompilers: Display: RAM used: 10.92 MiB of 3.20 GiB budget. Usage: 0.33%
+[2025.10.30-12.04.29:433][892]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.10.30-12.04.29:433][892]LogShaderCompilers: Display: Shaders Compiled: 374
+[2025.10.30-12.04.29:433][892]LogShaderCompilers: Display: Jobs assigned 374, completed 374 (100%)
+[2025.10.30-12.04.29:433][892]LogShaderCompilers: Display: Average time worker was idle: 7.49 s
+[2025.10.30-12.04.29:433][892]LogShaderCompilers: Display: Time job spent in pending queue: average 1.34 s, longest 5.47 s
+[2025.10.30-12.04.29:433][892]LogShaderCompilers: Display: Job execution time: average 1.85 s, max 5.46 s
+[2025.10.30-12.04.29:433][892]LogShaderCompilers: Display: Job life time (pending + execution): average 3.18 s, max 6.81
+[2025.10.30-12.04.29:433][892]LogShaderCompilers: Display: Shader code size: total 3.474 MiB, numShaders 397, average 8.959 KiB, min 2.246 KiB, max 33.121 KiB
+[2025.10.30-12.04.29:433][892]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 14.88 s
+[2025.10.30-12.04.29:433][892]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.35%
+[2025.10.30-12.04.29:433][892]LogShaderCompilers: Display: Jobs were issued in 114 batches (only local compilation was used), average 3.28 jobs/batch
+[2025.10.30-12.04.29:433][892]LogShaderCompilers: Display: Average processing rate: 25.14 jobs/sec
+[2025.10.30-12.04.29:433][892]LogShaderCompilers: Display: Total thread time: 121.314 s
+[2025.10.30-12.04.29:433][892]LogShaderCompilers: Display: Total thread preprocess time: 29.919 s
+[2025.10.30-12.04.29:433][892]LogShaderCompilers: Display: Percentage time preprocessing: 24.66%
+[2025.10.30-12.04.29:433][892]LogShaderCompilers: Display: Effective parallelization: 8.15 (times faster than compiling all shaders on one thread). Compare with number of workers: 16 - 0.509627
+[2025.10.30-12.04.29:433][892]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.10.30-12.04.29:433][892]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    1 times, average 1.84 sec, max 1.84 sec, min 1.84 sec)
+[2025.10.30-12.04.29:433][892]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight (compiled    1 times, average 1.42 sec, max 1.42 sec, min 1.42 sec)
+[2025.10.30-12.04.29:433][892]LogShaderCompilers: Display:                                                  FVelocityPS (compiled   23 times, average 0.50 sec, max 0.73 sec, min 0.25 sec)
+[2025.10.30-12.04.29:433][892]LogShaderCompilers: Display:                   TBasePassPSFSelfShadowedTranslucencyPolicy (compiled    4 times, average 0.40 sec, max 0.62 sec, min 0.24 sec)
+[2025.10.30-12.04.29:433][892]LogShaderCompilers: Display:           TBasePassPSFSelfShadowedTranslucencyPolicySkylight (compiled    4 times, average 0.39 sec, max 0.64 sec, min 0.30 sec)
+[2025.10.30-12.04.29:433][892]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.10.30-12.04.29:433][892]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 13.90% of total time (compiled   45 times, average 0.37 sec, max 0.75 sec, min 0.21 sec)
+[2025.10.30-12.04.29:433][892]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 10.53% of total time (compiled   48 times, average 0.27 sec, max 0.86 sec, min 0.11 sec)
+[2025.10.30-12.04.29:433][892]LogShaderCompilers: Display:                                             FDebugViewModeVS - 9.82% of total time (compiled   45 times, average 0.26 sec, max 0.89 sec, min 0.11 sec)
+[2025.10.30-12.04.29:433][892]LogShaderCompilers: Display:                                                  FVelocityPS - 9.50% of total time (compiled   23 times, average 0.50 sec, max 0.73 sec, min 0.25 sec)
+[2025.10.30-12.04.29:433][892]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 7.70% of total time (compiled   27 times, average 0.35 sec, max 0.61 sec, min 0.23 sec)
+[2025.10.30-12.04.29:433][892]LogShaderCompilers: Display: === Material stats ===
+[2025.10.30-12.04.29:433][892]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.10.30-12.04.29:433][892]LogShaderCompilers: Display: Materials Translated:    147
+[2025.10.30-12.04.29:433][892]LogShaderCompilers: Display: Material Total Translate Time: 0.10 s
+[2025.10.30-12.04.29:433][892]LogShaderCompilers: Display: Material Translation Only: 0.03 s (31%)
+[2025.10.30-12.04.29:433][892]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2025.10.30-12.04.29:433][892]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2025.10.30-12.04.29:433][892]LogShaderCompilers: Display: ================================================
+[2025.10.30-12.05.14:634][ 55]LogSlate: Took 0.011734 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2025.10.30-12.05.55:629][817]LogEditorTransaction: Undo Set Vector Property
+[2025.10.30-12.05.56:007][820]Cmd: TRANSACTION UNDO
+[2025.10.30-12.05.56:007][820]LogEditorTransaction: Undo Set Vector Property
+[2025.10.30-12.06.58:580][990]LogPSOHitching: Encountered 250 PSO creation hitches so far (73 graphics, 177 compute). 0 of them were precached.
+[2025.10.30-12.07.51:801][ 75]LogSlate: Window 'Color Picker' being destroyed
+[2025.10.30-12.09.50:397][331]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2025.10.30-12.09.51:113][412]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.30-12.09.51:171][412]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Levels/MainMenu/Widgets/W_Menu_Settings] ([2] browsable assets)...
+[2025.10.30-12.09.51:174][412]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Levels/MainMenu/Widgets/W_Menu_Settings.W_Menu_Settings]
+[2025.10.30-12.09.51:174][412]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/MainMenu/Widgets/W_Menu_Settings]
+[2025.10.30-12.09.51:188][412]LogSavePackage: Moving output files for package: /Game/Levels/MainMenu/Widgets/W_Menu_Settings
+[2025.10.30-12.09.51:189][412]LogSavePackage: Moving '../../../../../../Users/dtnvca3/Documents/Vault/vault_of_genesis/VOG 5.6/Saved/W_Menu_SettingsB6F5550D467A30F05781C8B9E763EE23.tmp' to '../../../../../../Users/dtnvca3/Documents/Vault/vault_of_genesis/VOG 5.6/Content/Levels/MainMenu/Widgets/W_Menu_Settings.uasset'
+[2025.10.30-12.09.51:195][412]LogFileHelpers: InternalPromptForCheckoutAndSave took 82.945 ms (total: 647.244 ms)
+[2025.10.30-12.09.51:252][412]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.30-12.09.51:252][412]LogContentValidation: Enabled validators:
+[2025.10.30-12.09.51:252][412]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.30-12.09.51:252][412]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.30-12.09.51:252][412]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.30-12.09.51:252][412]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.30-12.09.51:252][412]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.30-12.09.51:252][412]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.30-12.09.51:252][412]AssetCheck: /Game/Levels/MainMenu/Widgets/W_Menu_Settings Validating asset
+[2025.10.30-12.10.00:521][407]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2025.10.30-12.10.01:172][461]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.30-12.10.01:221][461]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Levels/MainMenu/Widgets/W_Menu_Settings] ([2] browsable assets)...
+[2025.10.30-12.10.01:222][461]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Levels/MainMenu/Widgets/W_Menu_Settings.W_Menu_Settings]
+[2025.10.30-12.10.01:222][461]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/MainMenu/Widgets/W_Menu_Settings]
+[2025.10.30-12.10.01:236][461]LogSavePackage: Moving output files for package: /Game/Levels/MainMenu/Widgets/W_Menu_Settings
+[2025.10.30-12.10.01:238][461]LogSavePackage: Moving '../../../../../../Users/dtnvca3/Documents/Vault/vault_of_genesis/VOG 5.6/Saved/W_Menu_Settings349819AB435A14718A3A1C8991063076.tmp' to '../../../../../../Users/dtnvca3/Documents/Vault/vault_of_genesis/VOG 5.6/Content/Levels/MainMenu/Widgets/W_Menu_Settings.uasset'
+[2025.10.30-12.10.01:244][461]LogFileHelpers: InternalPromptForCheckoutAndSave took 72.048 ms (total: 719.292 ms)
+[2025.10.30-12.10.01:288][461]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.30-12.10.01:288][461]LogContentValidation: Enabled validators:
+[2025.10.30-12.10.01:288][461]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.30-12.10.01:288][461]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.30-12.10.01:288][461]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.30-12.10.01:288][461]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.30-12.10.01:288][461]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.30-12.10.01:288][461]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.30-12.10.01:288][461]AssetCheck: /Game/Levels/MainMenu/Widgets/W_Menu_Settings Validating asset
+[2025.10.30-12.10.33:714][311]LogSlate: Window 'Color Picker' being destroyed
+[2025.10.30-12.10.35:397][494]LogSlate: Window 'Color Picker' being destroyed
+[2025.10.30-12.10.35:758][524]LogSlate: Window 'Color Picker' being destroyed
+[2025.10.30-12.10.45:244][619]LogSlate: Window 'Color Picker' being destroyed
+[2025.10.30-12.11.47:430][540]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2025.10.30-12.12.30:481][462]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2025.10.30-12.12.30:484][462]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/MainMenu/Lvl_MainMenu' took 0.058
+[2025.10.30-12.12.30:484][462]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Levels/MainMenu/Widgets/W_Menu_Settings] ([2] browsable assets)...
+[2025.10.30-12.12.30:488][462]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Levels/MainMenu/Widgets/W_Menu_Settings.W_Menu_Settings]
+[2025.10.30-12.12.30:488][462]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/MainMenu/Widgets/W_Menu_Settings]
+[2025.10.30-12.12.30:501][462]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/MainMenu/Widgets/W_Menu_Settings_Auto1
+[2025.10.30-12.12.30:501][462]LogSavePackage: Moving '../../../../../../Users/dtnvca3/Documents/Vault/vault_of_genesis/VOG 5.6/Saved/W_Menu_Settings_Auto1281BC1544C4620F28BB8329E81D6063E.tmp' to '../../../../../../Users/dtnvca3/Documents/Vault/vault_of_genesis/VOG 5.6/Saved/Autosaves/Game/Levels/MainMenu/Widgets/W_Menu_Settings_Auto1.uasset'
+[2025.10.30-12.12.30:503][462]LogFileHelpers: Auto-saving content packages took 0.020
+[2025.10.30-12.13.54:397][832]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2025.10.30-12.13.55:508][947]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.30-12.13.55:546][947]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Levels/MainMenu/Widgets/W_Menu_Settings] ([2] browsable assets)...
+[2025.10.30-12.13.55:548][947]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Levels/MainMenu/Widgets/W_Menu_Settings.W_Menu_Settings]
+[2025.10.30-12.13.55:548][947]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/MainMenu/Widgets/W_Menu_Settings]
+[2025.10.30-12.13.55:564][947]LogSavePackage: Moving output files for package: /Game/Levels/MainMenu/Widgets/W_Menu_Settings
+[2025.10.30-12.13.55:566][947]LogSavePackage: Moving '../../../../../../Users/dtnvca3/Documents/Vault/vault_of_genesis/VOG 5.6/Saved/W_Menu_Settings209DABE745094CE05E434782B5B27782.tmp' to '../../../../../../Users/dtnvca3/Documents/Vault/vault_of_genesis/VOG 5.6/Content/Levels/MainMenu/Widgets/W_Menu_Settings.uasset'
+[2025.10.30-12.13.55:573][947]LogFileHelpers: InternalPromptForCheckoutAndSave took 64.017 ms (total: 783.310 ms)
+[2025.10.30-12.13.55:612][947]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.30-12.13.55:612][947]LogContentValidation: Enabled validators:
+[2025.10.30-12.13.55:612][947]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.30-12.13.55:612][947]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.30-12.13.55:612][947]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.30-12.13.55:612][947]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.30-12.13.55:612][947]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.30-12.13.55:612][947]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.30-12.13.55:613][947]AssetCheck: /Game/Levels/MainMenu/Widgets/W_Menu_Settings Validating asset
