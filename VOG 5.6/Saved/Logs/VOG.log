@@ -1385,3 +1385,131 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.10.30-11.54.06:621][757]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.10.30-11.54.06:623][757]AssetCheck: /Game/Levels/MainMenu/Widgets/W_Menu Validating asset
 [2025.10.30-11.54.09:489][ 65]LogDerivedDataCache: C:/Users/dtnvca3/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.10.30-11.55.24:955][132]LogHttp: Warning: 0000024C133B6900: request failed, libcurl error: 26 (Failed to open/read local data from file/application)
+[2025.10.30-11.55.24:955][132]LogHttp: Warning: 0000024C133B6900: libcurl info message cache 0 (Re-using existing connection with host datarouter.ol.epicgames.com)
+[2025.10.30-11.55.24:955][132]LogHttp: Warning: 0000024C133B6900: libcurl info message cache 1 (upload completely sent off: 1287 bytes)
+[2025.10.30-11.55.24:955][132]LogHttp: Warning: 0000024C133B6900: libcurl info message cache 2 (Recv failure: Connection was reset)
+[2025.10.30-11.55.24:955][133]LogHttp: Warning: 0000024C133B6900: libcurl info message cache 3 (OpenSSL SSL_read: Connection was reset, errno 10054)
+[2025.10.30-11.55.24:955][133]LogHttp: Warning: 0000024C133B6900: libcurl info message cache 4 (Connection died, retrying a fresh connect (retry count: 1))
+[2025.10.30-11.55.24:955][133]LogHttp: Warning: 0000024C133B6900: libcurl info message cache 5 (shutting down connection #0)
+[2025.10.30-11.55.24:955][133]LogHttp: Warning: 0000024C133B6900: libcurl info message cache 6 (Recv failure: Connection was reset)
+[2025.10.30-11.55.24:955][133]LogHttp: Warning: 0000024C133B6900: libcurl info message cache 7 (Send failure: Connection was reset)
+[2025.10.30-11.55.24:955][133]LogHttp: Warning: 0000024C133B6900: libcurl info message cache 8 (Recv failure: Connection was reset)
+[2025.10.30-11.55.24:955][133]LogHttp: Warning: 0000024C133B6900: libcurl info message cache 9 (necessary data rewind was not possible)
+[2025.10.30-11.55.24:955][133]LogHttp: Warning: 0000024C133B6900: libcurl info message cache 10 (rewind of client reader 'cr-in' failed: 65)
+[2025.10.30-11.55.24:955][133]LogHttp: Warning: 0000024C133B6900: libcurl info message cache 11 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC3B86F09-4D56-1736-E305-CDBCECBEC5E3%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.0-43139311%2B%2B%2BUE5%2BRelease-5.6&UserID=128fa2d44dd6c980e89cb3ae0bdbadde%7C%7C5e1ca347-87a1-44bc-817e-c6c5a7cb6600&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2025.10.30-11.55.24:955][133]LogHttp: Warning: 0000024C133B6900: libcurl info message cache 12 (necessary data rewind was not possible)
+[2025.10.30-11.55.24:955][133]LogHttp: Warning: 0000024C133B6900: libcurl info message cache 13 (rewind of client reader 'cr-in' failed: 65)
+[2025.10.30-11.55.24:955][133]LogHttp: Warning: 0000024C133B6900: libcurl info message cache 14 (Host datarouter.ol.epicgames.com:443 was resolved.)
+[2025.10.30-11.55.24:955][133]LogHttp: Warning: 0000024C133B6900: libcurl info message cache 15 (IPv6: (none))
+[2025.10.30-11.55.24:955][133]LogHttp: Warning: 0000024C133B6900: libcurl info message cache 16 (IPv4: 44.193.44.180, 52.5.53.172, 35.168.221.237, 34.199.187.34, 34.233.253.46, 54.237.97.212, 50.17.154.205, 34.225.213.32)
+[2025.10.30-11.55.24:955][133]LogHttp: Warning: 0000024C133B6900: libcurl info message cache 17 (  Trying 44.193.44.180:443...)
+[2025.10.30-11.55.24:955][133]LogHttp: Warning: 0000024C133B6900: libcurl info message cache 18 (SSL reusing session)
+[2025.10.30-11.55.24:955][133]LogHttp: Warning: 0000024C133B6900: libcurl info message cache 19 (ALPN: curl offers http/1.1)
+[2025.10.30-11.55.24:955][133]LogHttp: Warning: 0000024C133B6900: libcurl info message cache 20 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2025.10.30-11.55.24:955][133]LogHttp: Warning: 0000024C133B6900: libcurl info message cache 21 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2025.10.30-11.55.24:955][133]LogHttp: Warning: 0000024C133B6900: libcurl info message cache 22 (TLSv1.3 (IN), TLS handshake, Encrypted Extensions (8):)
+[2025.10.30-11.55.24:955][133]LogHttp: Warning: 0000024C133B6900: libcurl info message cache 23 (TLSv1.3 (IN), TLS handshake, Certificate (11):)
+[2025.10.30-11.55.24:955][133]LogHttp: Warning: 0000024C133B6900: libcurl info message cache 24 (TLSv1.3 (IN), TLS handshake, CERT verify (15):)
+[2025.10.30-11.55.24:955][133]LogHttp: Warning: 0000024C133B6900: libcurl info message cache 25 (TLSv1.3 (IN), TLS handshake, Finished (20):)
+[2025.10.30-11.55.24:955][133]LogHttp: Warning: 0000024C133B6900: libcurl info message cache 26 (TLSv1.3 (OUT), TLS change cipher, Change cipher spec (1):)
+[2025.10.30-11.55.24:955][133]LogHttp: Warning: 0000024C133B6900: libcurl info message cache 27 (TLSv1.3 (OUT), TLS handshake, Finished (20):)
+[2025.10.30-11.55.24:955][133]LogHttp: Warning: 0000024C133B6900: libcurl info message cache 28 (SSL connection using TLSv1.3 / TLS_AES_128_GCM_SHA256 / [blank] / UNDEF)
+[2025.10.30-11.55.24:955][133]LogHttp: Warning: 0000024C133B6900: libcurl info message cache 29 (ALPN: server accepted http/1.1)
+[2025.10.30-11.55.24:955][133]LogHttp: Warning: 0000024C133B6900: libcurl info message cache 30 (Server certificate:)
+[2025.10.30-11.55.24:955][133]LogHttp: Warning: 0000024C133B6900: libcurl info message cache 31 ( subject: CN=datarouter.cfef.live.use1a.on.epicgames.com)
+[2025.10.30-11.55.24:955][133]LogHttp: Warning: 0000024C133B6900: libcurl info message cache 32 ( start date: Feb  2 00:00:00 2025 GMT)
+[2025.10.30-11.55.24:955][133]LogHttp: Warning: 0000024C133B6900: libcurl info message cache 33 ( expire date: Mar  3 23:59:59 2026 GMT)
+[2025.10.30-11.55.24:955][133]LogHttp: Warning: 0000024C133B6900: libcurl info message cache 34 ( subjectAltName: host "datarouter.ol.epicgames.com" matched cert's "datarouter.ol.epicgames.com")
+[2025.10.30-11.55.24:955][133]LogHttp: Warning: 0000024C133B6900: libcurl info message cache 35 ( issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M03)
+[2025.10.30-11.55.24:955][133]LogHttp: Warning: 0000024C133B6900: libcurl info message cache 36 ( SSL certificate verify ok.)
+[2025.10.30-11.55.24:955][133]LogHttp: Warning: 0000024C133B6900: libcurl info message cache 37 (  Certificate level 0: Public key type ? (2048/112 Bits/secBits), signed using sha256WithRSAEncryption)
+[2025.10.30-11.55.24:955][133]LogHttp: Warning: 0000024C133B6900: libcurl info message cache 38 (  Certificate level 1: Public key type ? (2048/112 Bits/secBits), signed using sha256WithRSAEncryption)
+[2025.10.30-11.55.24:955][133]LogHttp: Warning: 0000024C133B6900: libcurl info message cache 39 (  Certificate level 2: Public key type ? (2048/112 Bits/secBits), signed using sha256WithRSAEncryption)
+[2025.10.30-11.55.24:955][133]LogHttp: Warning: 0000024C133B6900: libcurl info message cache 40 (Connected to datarouter.ol.epicgames.com (44.193.44.180) port 443)
+[2025.10.30-11.55.24:955][133]LogHttp: Warning: 0000024C133B6900: libcurl info message cache 41 (using HTTP/1.x)
+[2025.10.30-11.55.24:955][133]LogHttp: Warning: 0000024C133B6900: libcurl info message cache 42 (client read function EOF fail, only 0/1287 of needed bytes read)
+[2025.10.30-11.55.24:955][133]LogHttp: Warning: 0000024C133B6900: libcurl info message cache 43 (closing connection #1)
+[2025.10.30-11.55.24:955][133]LogHttp: Warning: 0000024C133B6900 POST https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC3B86F09-4D56-1736-E305-CDBCECBEC5E3%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.0-43139311%2B%2B%2BUE5%2BRelease-5.6&UserID=128fa2d44dd6c980e89cb3ae0bdbadde%7C%7C5e1ca347-87a1-44bc-817e-c6c5a7cb6600&AppEnvironment=datacollector-binary&UploadType=eteventstream completed with reason 'Other' after 0.16s
+[2025.10.30-11.55.29:148][569]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2025.10.30-11.55.29:158][569]LogShaderCompilers: Display: ================================================
+[2025.10.30-11.55.29:158][569]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.10.30-11.55.29:158][569]LogShaderCompilers: Display: Total job queries 2,466, among them cache hits 557 (22.59%), DDC hits 1,364 (55.31%), Duplicates 172 (6.97%)
+[2025.10.30-11.55.29:160][569]LogShaderCompilers: Display: Tracking 1,737 distinct input hashes that result in 1,088 distinct outputs (62.64%)
+[2025.10.30-11.55.29:160][569]LogShaderCompilers: Display: RAM used: 10.91 MiB of 3.20 GiB budget. Usage: 0.33%
+[2025.10.30-11.55.29:160][569]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.10.30-11.55.29:160][569]LogShaderCompilers: Display: Shaders Compiled: 373
+[2025.10.30-11.55.29:160][569]LogShaderCompilers: Display: Jobs assigned 373, completed 373 (100%)
+[2025.10.30-11.55.29:160][569]LogShaderCompilers: Display: Average time worker was idle: 0.90 s
+[2025.10.30-11.55.29:160][569]LogShaderCompilers: Display: Time job spent in pending queue: average 1.34 s, longest 5.47 s
+[2025.10.30-11.55.29:160][569]LogShaderCompilers: Display: Job execution time: average 1.85 s, max 5.46 s
+[2025.10.30-11.55.29:160][569]LogShaderCompilers: Display: Job life time (pending + execution): average 3.19 s, max 6.81
+[2025.10.30-11.55.29:160][569]LogShaderCompilers: Display: Shader code size: total 3.467 MiB, numShaders 396, average 8.966 KiB, min 2.246 KiB, max 33.121 KiB
+[2025.10.30-11.55.29:160][569]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 14.10 s
+[2025.10.30-11.55.29:160][569]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.35%
+[2025.10.30-11.55.29:160][569]LogShaderCompilers: Display: Jobs were issued in 113 batches (only local compilation was used), average 3.30 jobs/batch
+[2025.10.30-11.55.29:160][569]LogShaderCompilers: Display: Average processing rate: 26.45 jobs/sec
+[2025.10.30-11.55.29:160][569]LogShaderCompilers: Display: Total thread time: 121.024 s
+[2025.10.30-11.55.29:160][569]LogShaderCompilers: Display: Total thread preprocess time: 29.885 s
+[2025.10.30-11.55.29:160][569]LogShaderCompilers: Display: Percentage time preprocessing: 24.69%
+[2025.10.30-11.55.29:160][569]LogShaderCompilers: Display: Effective parallelization: 8.58 (times faster than compiling all shaders on one thread). Compare with number of workers: 16 - 0.536443
+[2025.10.30-11.55.29:160][569]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.10.30-11.55.29:160][569]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    1 times, average 1.84 sec, max 1.84 sec, min 1.84 sec)
+[2025.10.30-11.55.29:160][569]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight (compiled    1 times, average 1.42 sec, max 1.42 sec, min 1.42 sec)
+[2025.10.30-11.55.29:160][569]LogShaderCompilers: Display:                                                  FVelocityPS (compiled   23 times, average 0.50 sec, max 0.73 sec, min 0.25 sec)
+[2025.10.30-11.55.29:160][569]LogShaderCompilers: Display:                   TBasePassPSFSelfShadowedTranslucencyPolicy (compiled    4 times, average 0.40 sec, max 0.62 sec, min 0.24 sec)
+[2025.10.30-11.55.29:160][569]LogShaderCompilers: Display:           TBasePassPSFSelfShadowedTranslucencyPolicySkylight (compiled    4 times, average 0.39 sec, max 0.64 sec, min 0.30 sec)
+[2025.10.30-11.55.29:160][569]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.10.30-11.55.29:160][569]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 13.69% of total time (compiled   44 times, average 0.38 sec, max 0.75 sec, min 0.21 sec)
+[2025.10.30-11.55.29:160][569]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 10.55% of total time (compiled   48 times, average 0.27 sec, max 0.86 sec, min 0.11 sec)
+[2025.10.30-11.55.29:160][569]LogShaderCompilers: Display:                                             FDebugViewModeVS - 9.85% of total time (compiled   45 times, average 0.26 sec, max 0.89 sec, min 0.11 sec)
+[2025.10.30-11.55.29:160][569]LogShaderCompilers: Display:                                                  FVelocityPS - 9.52% of total time (compiled   23 times, average 0.50 sec, max 0.73 sec, min 0.25 sec)
+[2025.10.30-11.55.29:160][569]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 7.72% of total time (compiled   27 times, average 0.35 sec, max 0.61 sec, min 0.23 sec)
+[2025.10.30-11.55.29:160][569]LogShaderCompilers: Display: === Material stats ===
+[2025.10.30-11.55.29:160][569]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.10.30-11.55.29:160][569]LogShaderCompilers: Display: Materials Translated:    144
+[2025.10.30-11.55.29:160][569]LogShaderCompilers: Display: Material Total Translate Time: 0.09 s
+[2025.10.30-11.55.29:160][569]LogShaderCompilers: Display: Material Translation Only: 0.03 s (33%)
+[2025.10.30-11.55.29:160][569]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2025.10.30-11.55.29:160][569]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2025.10.30-11.55.29:160][569]LogShaderCompilers: Display: ================================================
+[2025.10.30-11.55.29:226][570]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2025.10.30-11.55.50:544][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2025.10.30-11.55.50:699][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2025.10.30-11.56.03:105][277]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2025.10.30-11.56.03:504][313]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.30-11.56.03:531][313]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Levels/MainMenu/Widgets/W_Menu] ([2] browsable assets)...
+[2025.10.30-11.56.03:532][313]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Levels/MainMenu/Widgets/W_Menu.W_Menu]
+[2025.10.30-11.56.03:532][313]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/MainMenu/Widgets/W_Menu]
+[2025.10.30-11.56.03:555][313]LogSavePackage: Moving output files for package: /Game/Levels/MainMenu/Widgets/W_Menu
+[2025.10.30-11.56.03:556][313]LogSavePackage: Moving '../../../../../../Users/dtnvca3/Documents/Vault/vault_of_genesis/VOG 5.6/Saved/W_Menu23C93A3F4E0255913212A985A10289C9.tmp' to '../../../../../../Users/dtnvca3/Documents/Vault/vault_of_genesis/VOG 5.6/Content/Levels/MainMenu/Widgets/W_Menu.uasset'
+[2025.10.30-11.56.03:564][313]LogFileHelpers: InternalPromptForCheckoutAndSave took 59.799 ms (total: 244.071 ms)
+[2025.10.30-11.56.03:594][313]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.30-11.56.03:594][313]LogContentValidation: Enabled validators:
+[2025.10.30-11.56.03:594][313]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.30-11.56.03:594][313]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.30-11.56.03:594][313]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.30-11.56.03:594][313]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.30-11.56.03:594][313]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.30-11.56.03:594][313]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.30-11.56.03:596][313]AssetCheck: /Game/Levels/MainMenu/Widgets/W_Menu Validating asset
+[2025.10.30-11.57.31:809][571]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2025.10.30-11.57.31:934][576]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2025.10.30-11.58.10:067][983]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2025.10.30-11.59.28:570][454]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2025.10.30-11.59.29:221][528]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.30-11.59.29:261][528]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Levels/MainMenu/Widgets/W_Menu] ([2] browsable assets)...
+[2025.10.30-11.59.29:264][528]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Levels/MainMenu/Widgets/W_Menu.W_Menu]
+[2025.10.30-11.59.29:264][528]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/MainMenu/Widgets/W_Menu]
+[2025.10.30-11.59.29:286][528]LogSavePackage: Moving output files for package: /Game/Levels/MainMenu/Widgets/W_Menu
+[2025.10.30-11.59.29:288][528]LogSavePackage: Moving '../../../../../../Users/dtnvca3/Documents/Vault/vault_of_genesis/VOG 5.6/Saved/W_Menu5AD65BF94CE2DF2BA6683AA92A54AF01.tmp' to '../../../../../../Users/dtnvca3/Documents/Vault/vault_of_genesis/VOG 5.6/Content/Levels/MainMenu/Widgets/W_Menu.uasset'
+[2025.10.30-11.59.29:295][528]LogFileHelpers: InternalPromptForCheckoutAndSave took 74.455 ms (total: 318.527 ms)
+[2025.10.30-11.59.29:347][528]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.30-11.59.29:347][528]LogContentValidation: Enabled validators:
+[2025.10.30-11.59.29:347][528]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.30-11.59.29:347][528]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.30-11.59.29:347][528]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.30-11.59.29:347][528]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.30-11.59.29:347][528]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.30-11.59.29:347][528]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.30-11.59.29:347][528]AssetCheck: /Game/Levels/MainMenu/Widgets/W_Menu Validating asset
