@@ -6953,3 +6953,96 @@ Sampler Limit: 32
 [2025.11.21-13.52.47:631][438]PIE: Play in editor total start time 0.078 seconds.
 [2025.11.21-13.52.51:299][825]LogBlueprintUserMessages: [TemperatureTrigger_C_UAID_24FBE34A439CA99D02_1222299035] Collision
 [2025.11.21-13.52.56:652][408]LogBlueprintUserMessages: [TemperatureTrigger_C_UAID_24FBE34A439CA89D02_2142485858] Collision
+[2025.11.21-13.53.07:123][559]LogBlueprintUserMessages: [TemperatureTrigger_C_UAID_24FBE34A439CA99D02_1222299035] Collision
+[2025.11.21-13.53.07:936][645]LogBlueprintUserMessages: [TemperatureTrigger_C_UAID_24FBE34A439CA89D02_2142485858] Collision
+[2025.11.21-13.53.09:520][814]LogBlueprintUserMessages: [TemperatureTrigger_C_UAID_24FBE34A439CA99D02_1222299035] Collision
+[2025.11.21-13.53.12:407][133]LogBlueprintUserMessages: [TemperatureTrigger_C_UAID_24FBE34A439CA99D02_1222299035] Collision
+[2025.11.21-13.53.12:532][146]LogBlueprintUserMessages: [TemperatureTrigger_C_UAID_24FBE34A439CA89D02_2142485858] Collision
+[2025.11.21-13.53.20:550][ 28]LogBlueprintUserMessages: [TemperatureTrigger_C_UAID_24FBE34A439CA99D02_1222299035] Collision
+[2025.11.21-13.53.21:239][103]LogBlueprintUserMessages: [TemperatureTrigger_C_UAID_24FBE34A439CA89D02_2142485858] Collision
+[2025.11.21-13.53.22:090][196]LogBlueprintUserMessages: [TemperatureTrigger_C_UAID_24FBE34A439CA99D02_1222299035] Collision
+[2025.11.21-13.53.24:029][408]LogBlueprintUserMessages: [TemperatureTrigger_C_UAID_24FBE34A439CA99D02_1222299035] Collision
+[2025.11.21-13.53.33:634][448]LogBlueprintUserMessages: [TemperatureTrigger_C_UAID_24FBE34A439CA99D02_1222299035] Collision
+[2025.11.21-13.53.34:130][501]LogBlueprintUserMessages: [TemperatureTrigger_C_UAID_24FBE34A439CA89D02_2142485858] Collision
+[2025.11.21-13.53.41:501][308]LogBlueprintUserMessages: [TemperatureTrigger_C_UAID_24FBE34A439CA99D02_1222299035] Collision
+[2025.11.21-13.54.01:080][508]LogBlueprintUserMessages: [TemperatureTrigger_C_UAID_24FBE34A439CA99D02_1222299035] Collision
+[2025.11.21-13.54.01:945][598]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.21-13.54.01:945][598]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Lvl_FirstPerson
+[2025.11.21-13.54.01:945][598]LogWorld: UWorld::CleanupWorld for Lvl_FirstPerson, bSessionEnded=true, bCleanupResources=true
+[2025.11.21-13.54.01:945][598]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.21-13.54.01:945][598]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Levels/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson
+[2025.11.21-13.54.01:947][598]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.11.21-13.54.01:952][598]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.21-13.54.01:969][598]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.21-13.54.01:970][598]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 25
+[2025.11.21-13.54.01:970][598]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25, StreamState=4
+[2025.11.21-13.54.01:972][598]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25, StreamState=2
+[2025.11.21-13.54.01:979][598]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2025.11.21-13.54.02:054][599]LogPlayLevel: Display: Destroying online subsystem :Context_52
+[2025.11.21-13.54.31:349][657]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.21-13.54.31:404][657]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Lvl_FirstPerson/B/1T/CAD8YDB00FLJ1KQC221Y00
+[2025.11.21-13.54.31:404][657]LogSavePackage: Moving 'E:/Uni/Y3/vault of genesis/vault_of_genesis/VOG 5.6 5.6 5.6/Saved/CAD8YDB00FLJ1KQC221Y004AEA71514E4CC0627D3D21A37B09D78D.tmp' to 'E:/Uni/Y3/vault of genesis/vault_of_genesis/VOG 5.6 5.6 5.6/Content/__ExternalActors__/Levels/Lvl_FirstPerson/B/1T/CAD8YDB00FLJ1KQC221Y00.uasset'
+[2025.11.21-13.54.31:416][657]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Lvl_FirstPerson/5/XU/C3VGANGUW7NGWDD9TBIMZM
+[2025.11.21-13.54.31:418][657]LogSavePackage: Moving 'E:/Uni/Y3/vault of genesis/vault_of_genesis/VOG 5.6 5.6 5.6/Saved/C3VGANGUW7NGWDD9TBIMZM53C2F1174C6258511D6067A93C07DBF3.tmp' to 'E:/Uni/Y3/vault of genesis/vault_of_genesis/VOG 5.6 5.6 5.6/Content/__ExternalActors__/Levels/Lvl_FirstPerson/5/XU/C3VGANGUW7NGWDD9TBIMZM.uasset'
+[2025.11.21-13.54.31:429][657]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Lvl_FirstPerson/3/VW/9KA8KYUUV77IJF5QYUOAT4
+[2025.11.21-13.54.31:429][657]LogSavePackage: Moving 'E:/Uni/Y3/vault of genesis/vault_of_genesis/VOG 5.6 5.6 5.6/Saved/9KA8KYUUV77IJF5QYUOAT49721EA0E49A89F09D570D590FCFE47F4.tmp' to 'E:/Uni/Y3/vault of genesis/vault_of_genesis/VOG 5.6 5.6 5.6/Content/__ExternalActors__/Levels/Lvl_FirstPerson/3/VW/9KA8KYUUV77IJF5QYUOAT4.uasset'
+[2025.11.21-13.54.31:441][657]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Lvl_FirstPerson/D/LI/XDCFD6XI6KVYVX8RHCIEZH
+[2025.11.21-13.54.31:441][657]LogSavePackage: Moving 'E:/Uni/Y3/vault of genesis/vault_of_genesis/VOG 5.6 5.6 5.6/Saved/XDCFD6XI6KVYVX8RHCIEZH78E8BB3548DF8B5F154D65BF96B7A620.tmp' to 'E:/Uni/Y3/vault of genesis/vault_of_genesis/VOG 5.6 5.6 5.6/Content/__ExternalActors__/Levels/Lvl_FirstPerson/D/LI/XDCFD6XI6KVYVX8RHCIEZH.uasset'
+[2025.11.21-13.54.31:453][657]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Lvl_FirstPerson/1/0H/VIICD27P0783FUBXCJQM7C
+[2025.11.21-13.54.31:453][657]LogSavePackage: Moving 'E:/Uni/Y3/vault of genesis/vault_of_genesis/VOG 5.6 5.6 5.6/Saved/VIICD27P0783FUBXCJQM7CE06C60B14548EF49B3C8B7966DDA4E2A.tmp' to 'E:/Uni/Y3/vault of genesis/vault_of_genesis/VOG 5.6 5.6 5.6/Content/__ExternalActors__/Levels/Lvl_FirstPerson/1/0H/VIICD27P0783FUBXCJQM7C.uasset'
+[2025.11.21-13.54.31:464][657]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Lvl_FirstPerson/C/MN/92BUP74UF0VMEZXM2BY1FH
+[2025.11.21-13.54.31:464][657]LogSavePackage: Moving 'E:/Uni/Y3/vault of genesis/vault_of_genesis/VOG 5.6 5.6 5.6/Saved/92BUP74UF0VMEZXM2BY1FH3A8593D74D34EB36C196D182813B2736.tmp' to 'E:/Uni/Y3/vault of genesis/vault_of_genesis/VOG 5.6 5.6 5.6/Content/__ExternalActors__/Levels/Lvl_FirstPerson/C/MN/92BUP74UF0VMEZXM2BY1FH.uasset'
+[2025.11.21-13.54.31:476][657]LogFileHelpers: InternalPromptForCheckoutAndSave took 126.503 ms (total: 15.0 sec)
+[2025.11.21-13.54.31:528][657]LogContentValidation: Display: Starting to validate 6 assets
+[2025.11.21-13.54.31:528][657]LogContentValidation: Enabled validators:
+[2025.11.21-13.54.31:528][657]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.21-13.54.31:528][657]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.21-13.54.31:528][657]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.21-13.54.31:528][657]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.21-13.54.31:528][657]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.21-13.54.31:528][657]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.21-13.54.31:528][657]AssetCheck: /Game/Levels/Lvl_FirstPerson Validating asset
+[2025.11.21-13.54.31:626][657]LogSourceControl: Display: Uncontrolled Changelist persistency file saved E:/Uni/Y3/vault of genesis/vault_of_genesis/VOG 5.6 5.6 5.6/Saved/SourceControl/UncontrolledChangelists.json
+[2025.11.21-13.55.17:089][296]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2025.11.21-13.55.17:093][296]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Lvl_FirstPerson' took 0.020
+[2025.11.21-13.55.17:095][296]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Machine/frontpanel] ([1] browsable assets)...
+[2025.11.21-13.55.17:223][296]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Models/Machine/frontpanel.frontpanel]
+[2025.11.21-13.55.17:223][296]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Machine/frontpanel]
+[2025.11.21-13.55.17:491][296]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Models/Machine/frontpanel_Auto3
+[2025.11.21-13.55.17:491][296]LogSavePackage: Moving 'E:/Uni/Y3/vault of genesis/vault_of_genesis/VOG 5.6 5.6 5.6/Saved/frontpanel_Auto3E5A84BD846A8454365250CB8C3EC2BE3.tmp' to 'E:/Uni/Y3/vault of genesis/vault_of_genesis/VOG 5.6 5.6 5.6/Saved/Autosaves/Game/Models/Machine/frontpanel_Auto3.uasset'
+[2025.11.21-13.55.17:495][296]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Machine/metallic] ([1] browsable assets)...
+[2025.11.21-13.55.17:509][296]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Models/Machine/metallic.metallic]
+[2025.11.21-13.55.17:509][296]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Machine/metallic]
+[2025.11.21-13.55.17:522][296]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Models/Machine/metallic_Auto3
+[2025.11.21-13.55.17:522][296]LogSavePackage: Moving 'E:/Uni/Y3/vault of genesis/vault_of_genesis/VOG 5.6 5.6 5.6/Saved/metallic_Auto34D16E1DD45AA7861BE3DDE91B0968767.tmp' to 'E:/Uni/Y3/vault of genesis/vault_of_genesis/VOG 5.6 5.6 5.6/Saved/Autosaves/Game/Models/Machine/metallic_Auto3.uasset'
+[2025.11.21-13.55.17:525][296]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Machine/tubes] ([1] browsable assets)...
+[2025.11.21-13.55.17:538][296]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Models/Machine/tubes.tubes]
+[2025.11.21-13.55.17:538][296]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Machine/tubes]
+[2025.11.21-13.55.17:551][296]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Models/Machine/tubes_Auto3
+[2025.11.21-13.55.17:551][296]LogSavePackage: Moving 'E:/Uni/Y3/vault of genesis/vault_of_genesis/VOG 5.6 5.6 5.6/Saved/tubes_Auto30761B2AE4D53FBA3D0D9738F253D94DA.tmp' to 'E:/Uni/Y3/vault of genesis/vault_of_genesis/VOG 5.6 5.6 5.6/Saved/Autosaves/Game/Models/Machine/tubes_Auto3.uasset'
+[2025.11.21-13.55.17:552][296]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Machine/LAB_machine] ([1] browsable assets)...
+[2025.11.21-13.55.17:575][296]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/Machine/LAB_machine.LAB_machine]
+[2025.11.21-13.55.17:575][296]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Machine/LAB_machine]
+[2025.11.21-13.55.17:589][296]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Models/Machine/LAB_machine_Auto3
+[2025.11.21-13.55.17:589][296]LogSavePackage: Moving 'E:/Uni/Y3/vault of genesis/vault_of_genesis/VOG 5.6 5.6 5.6/Saved/LAB_machine_Auto3FD72EC25477F4BFCF821549391A7F0A4.tmp' to 'E:/Uni/Y3/vault of genesis/vault_of_genesis/VOG 5.6 5.6 5.6/Saved/Autosaves/Game/Models/Machine/LAB_machine_Auto3.uasset'
+[2025.11.21-13.55.17:591][296]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Machine/everytexture_com-stock-metal-texture-00139] ([1] browsable assets)...
+[2025.11.21-13.55.17:592][296]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Models/Machine/everytexture_com-stock-metal-texture-00139.everytexture_com-stock-metal-texture-00139]
+[2025.11.21-13.55.17:592][296]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Machine/everytexture_com-stock-metal-texture-00139]
+[2025.11.21-13.55.17:610][296]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Models/Machine/everytexture_com-stock-metal-texture-00139_Auto3
+[2025.11.21-13.55.17:610][296]LogSavePackage: Moving 'E:/Uni/Y3/vault of genesis/vault_of_genesis/VOG 5.6 5.6 5.6/Saved/everytexture_com-stock-metal-tex0DB271AC41CE63E85D908DAD0B10ACFB.tmp' to 'E:/Uni/Y3/vault of genesis/vault_of_genesis/VOG 5.6 5.6 5.6/Saved/Autosaves/Game/Models/Machine/everytexture_com-stock-metal-texture-00139_Auto3.uasset'
+[2025.11.21-13.55.17:611][296]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Machine/everytexture_com-stock-metal-texture-00139-bump] ([1] browsable assets)...
+[2025.11.21-13.55.17:614][296]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Models/Machine/everytexture_com-stock-metal-texture-00139-bump.everytexture_com-stock-metal-texture-00139-bump]
+[2025.11.21-13.55.17:614][296]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Machine/everytexture_com-stock-metal-texture-00139-bump]
+[2025.11.21-13.55.17:628][296]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Models/Machine/everytexture_com-stock-metal-texture-00139-bump_Auto3
+[2025.11.21-13.55.17:628][296]LogSavePackage: Moving 'E:/Uni/Y3/vault of genesis/vault_of_genesis/VOG 5.6 5.6 5.6/Saved/everytexture_com-stock-metal-tex3CE1D9FD4352BF421EC4F58E520F4703.tmp' to 'E:/Uni/Y3/vault of genesis/vault_of_genesis/VOG 5.6 5.6 5.6/Saved/Autosaves/Game/Models/Machine/everytexture_com-stock-metal-texture-00139-bump_Auto3.uasset'
+[2025.11.21-13.55.17:631][296]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Machine/everytexture_com-stock-metal-texture-00139-diffuse] ([1] browsable assets)...
+[2025.11.21-13.55.17:633][296]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Models/Machine/everytexture_com-stock-metal-texture-00139-diffuse.everytexture_com-stock-metal-texture-00139-diffuse]
+[2025.11.21-13.55.17:633][296]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Machine/everytexture_com-stock-metal-texture-00139-diffuse]
+[2025.11.21-13.55.17:671][296]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Models/Machine/everytexture_com-stock-metal-texture-00139-diffuse_Auto3
+[2025.11.21-13.55.17:671][296]LogSavePackage: Moving 'E:/Uni/Y3/vault of genesis/vault_of_genesis/VOG 5.6 5.6 5.6/Saved/everytexture_com-stock-metal-tex5D099BAE40F464712B2AD0AA980E08B1.tmp' to 'E:/Uni/Y3/vault of genesis/vault_of_genesis/VOG 5.6 5.6 5.6/Saved/Autosaves/Game/Models/Machine/everytexture_com-stock-metal-texture-00139-diffuse_Auto3.uasset'
+[2025.11.21-13.55.17:673][296]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Machine/everytexture_com-stock-metal-texture-00139-normal] ([1] browsable assets)...
+[2025.11.21-13.55.17:676][296]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Models/Machine/everytexture_com-stock-metal-texture-00139-normal.everytexture_com-stock-metal-texture-00139-normal]
+[2025.11.21-13.55.17:676][296]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Machine/everytexture_com-stock-metal-texture-00139-normal]
+[2025.11.21-13.55.17:712][296]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Models/Machine/everytexture_com-stock-metal-texture-00139-normal_Auto3
+[2025.11.21-13.55.17:712][296]LogSavePackage: Moving 'E:/Uni/Y3/vault of genesis/vault_of_genesis/VOG 5.6 5.6 5.6/Saved/everytexture_com-stock-metal-texF1BA3C154C1300440CD6A185A40F0A4E.tmp' to 'E:/Uni/Y3/vault of genesis/vault_of_genesis/VOG 5.6 5.6 5.6/Saved/Autosaves/Game/Models/Machine/everytexture_com-stock-metal-texture-00139-normal_Auto3.uasset'
+[2025.11.21-13.55.17:714][296]LogFileHelpers: Auto-saving content packages took 0.622
