@@ -1,23 +1,14 @@
-[1208/173108.547:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 1
-[1208/173306.180:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
-[1208/174042.944:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 55
-[1208/175243.530:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+[1208/231117.411:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
 C:\fakepath(102,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_vec4_float4)
 
-[1208/175243.639:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+[1208/231117.539:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
 C:\fakepath(135,1): warning X4000: use of potentially uninitialized variable (f_i)
 C:\fakepath(137,1): warning X4000: use of potentially uninitialized variable (f_i)
 C:\fakepath(173,1): warning X4000: use of potentially uninitialized variable (f_u)
 
-[1208/175244.536:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+[1208/231117.750:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
 C:\fakepath(165,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel)
 
-[1208/175244.542:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
-C:\fakepath(165,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel)
-
-[1208/175244.544:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
-C:\fakepath(165,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel)
-
-[1208/175244.557:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
-C:\fakepath(165,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel)
-
+[1208/231117.990:ERROR:gl_utils.cc(314)] [.WebGL-0000011A20973A80] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
+[1208/231118.021:ERROR:gl_utils.cc(314)] [.WebGL-0000011A20973A80] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
+[1208/231142.083:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
