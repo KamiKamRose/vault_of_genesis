@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\uni\\y3\\vault of genesis\\vault_of_genesis\\vog 5.6 5.6 5.6\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\vog\\module.vog.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\uni\\y3\\vault of genesis\\vault_of_genesis\\vog 5.6 5.6 5.6\\intermediate\\build\\win64\\x64\\vog\\shipping\\core\\sharedpch.core.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\uni\\y3\\vault of genesis\\vault_of_genesis\\vog 5.6 5.6 5.6\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\vog\\definitions.vog.h",
+            "d:\\uni\\y3\\vault of genesis\\vault_of_genesis\\vog 5.6 5.6 5.6\\intermediate\\source\\vog.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
